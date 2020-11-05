@@ -1,0 +1,65 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Mehmet Akif İstiklal Marşını nerede yazmıştır?",
+      "answers": {
+        "t1": "Ankara-Ayasofya", 
+        "t2": "Ankara-Keçiöğren Camisi",
+        "t3": "Ankara-AyaşDergahı",
+        "t4": "Ankara-Taceddin Dergahı"
+      },
+      "img": "https://foto.haberler.com/quiz/2018/12/07/mehmet-akif-istiklal-marsini-nerede-yazmistir-soru-798-4_620.jpg"
+    },
+
+    {
+      "id": 2,
+      "question": "Atatürk'ün yurt gezilerinde (1935-1938) yılları arasında kullandığı trenin adı nedir?",
+      "answers": {
+        "t1": "Kara Duman",
+        "t2": "Demir Türk",
+        "t3": "Anadolu",
+        "t4": "Beyaz Tren"
+        
+      },
+      "img": "https://foto.haberler.com/quiz/2018/12/07/ataturkun-yurt-gezilerinde-1935-1938-yillari-arasinda-kullandigi-trenin-adi-nedir-soru-799-62_620.jpg"
+    },
+
+    {
+      "id": 3,
+      "question": "Türkiye'nin ilk Safari Parkı hangi ilimizde açılmıştır?",
+      "answers": {
+        "t1": "Mersin",
+        "t2": "İzmir",
+        "t3": "Konya",
+        "t4": "Gaziantep"
+        
+      },
+      "img": "https://foto.haberler.com/quiz/2018/12/07/turkiyenin-ilk-safari-parki-hangi-ilimizde-acilmistir-soru-800-39_620.jpg"
+    },
+    {
+      "id": 4,
+      "question": "Mehmet Akif Ersoy İstiklal Marşı telif ödülünü hangi kuruma bağışlamıştır?",
+      "answers": {
+        "t1": "Darülfunun",
+        "t2": "Darülbedai",
+        "t3": "Darüleytam",
+        "t4": "Darülmesai"
+      },
+      "img": "https://foto.haberler.com/quiz/2018/12/07/mehmet-akif-ersoy-istiklal-marsi-telif-odulunu-hangi-kuruma-bagislamistir-soru-801-42_620.jpg"
+    },
+
+    {
+      "id": 5,
+      "question": "Türkiye'nin en büyük kış ve doğa sporları merkezi olan Uludağ'ın eski adı nedir?",
+      "answers": {
+        "t1": "Yeni Dağ",
+        "t2": "Buz Dağ",
+        "t3": "Ulu Kış Dağı",
+        "t4": "Keşiş Dağı"
+      },
+      "img": "https://foto.haberler.com/quiz/2018/12/07/turkiyenin-en-buyuk-kis-ve-doga-sporlari-merkezi-olan-uludagin-eski-adi-nedir-soru-802-21_620.jpg"
+    }
+
+  ]
+}

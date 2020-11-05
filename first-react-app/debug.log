@@ -1,0 +1,7 @@
+[1031/114546.825:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[1101/123544.969:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[1101/125536.574:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Volkan\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\99d5fdee-1643-45e9-8b1b-0b7b27eadf22: Sistem belirtilen yolu bulamýyor. (0x3)
+[1104/095038.028:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[1104/102019.430:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Volkan\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\2afff64f-e426-48d1-99e9-958663b832e0: Sistem belirtilen yolu bulamýyor. (0x3)
+[1104/121946.626:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Volkan\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\90148065-0004-49e0-8b9d-ce4df30a6352: Sistem belirtilen yolu bulamýyor. (0x3)
+[1104/164331.022:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Volkan\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f95515e8-69e5-4214-890a-074cdcbd3893: Sistem belirtilen yolu bulamýyor. (0x3)
